@@ -1,6 +1,6 @@
 # JAVA-Clase1Ej3
 
-<p>Ejemplo 3 del apunte de JAVA <b>Clase 1</b> </p>
+Ejemplo 3 del apunte de [JAVA Clase 1](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA1.pdf).
 <ul>
   <li> Estructuras de control en JAVA</li>
 </ul>
